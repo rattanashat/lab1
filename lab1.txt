@@ -1,5 +1,5 @@
 Lab 1 - Getting Started with GitHub
-
+second change
 This lab is to introduce you to GitHub, the IT industry's current standard for Source Control and team collaboration.  To complete the lab:
 
 - Research the GitHub for Education offerings
