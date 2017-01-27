@@ -1,7 +1,7 @@
 Lab 1 - Getting Started with GitHub
 second change
 This lab is to introduce you to GitHub, the IT industry's current standard for Source Control and team collaboration.  To complete the lab:
-third change
+third change fourth change
 - Research the GitHub for Education offerings
 - Create a GitHub student account (this will give you 5 private repositories for free)
 - Create a new repository called Lab 1
